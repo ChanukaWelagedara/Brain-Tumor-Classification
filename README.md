@@ -10,7 +10,7 @@ Brain tumors are a critical health issue affecting both children and adults. Ear
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/your-username/brain-tumor-classification.git
+   git clone https://github.com/ChanukaWelagedara/brain-tumor-classification.git
    cd brain-tumor-classification
    \`\`\`
 
