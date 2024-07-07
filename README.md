@@ -8,18 +8,13 @@ Brain tumors are a critical health issue affecting both children and adults. Ear
 ## Installation
 
 1. Clone the repository:
-
-   \`\`\`bash
    git clone https://github.com/ChanukaWelagedara/brain-tumor-classification.git
    cd brain-tumor-classification
-   \`\`\`
+
 
 2. Install dependencies:
-
-   \`\`\`bash
    pip install -r requirements.txt
-   \`\`\`
-
+   
 ## Dataset
 
 The dataset used in this project is sourced from Kaggle's "Brain Tumor Classification (MRI)" dataset. It includes a balanced distribution of MRI images across four categories:
